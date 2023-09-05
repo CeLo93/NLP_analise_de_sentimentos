@@ -2,6 +2,7 @@
  
 ![text](https://github.com/CeLo93/NLP_analise_de_sentimentos/assets/92175791/b233c530-8d7d-4dd7-b185-1fcd6f687131)
 
+
 ----------
 
 Trabalhar em processamento de linguagem natural pode ser desafiador, especialmente quando se trata da base de dados. É aí que entra o ChatGPT. Neste projeto, a ideia é realizar a análise de sentimentos usando o algoritmo de Naive Bayes. Inicialmente, realizo o pré-processamento de texto, o que é fundamental. Isso inclui a tokenização, conversão para letras minúsculas, remoção de caracteres não alfanuméricos, eliminação de stopwords e aplicação de stemming.
