@@ -1,0 +1,1784 @@
+text,sentiment
+"A vida é o nosso bem mais precioso, é tão forte e capaz de mudar o mundo. Mas ao mesmo tempo é tão frágil, e capaz de terminar em um segundo. Todos os momentos em nossas vidas são mágicos, e cabe a cada um de nós torná-los mais marcantes. Seja feliz e faça alguém feliz também! Estamos todos em busca de amor, amizade, paz, esperança, afeto, sonhos, etc... Não importa, o que vale mesmo é sermos felizes!",Positivo
+"Eu estou me sentindo um lixo. Talvez seja “pesado” falar isso, não é mesmo?! Mas é dessa forma que eu me sinto.É uma tristeza profunda, que invade a minha alma, dá um nó na garganta e um aperto no peito.Já chorei tanto, que as minhas lágrimas parecem ter secado. E agora, fico quase que estática, com os olhos saltados e sem nenhuma reação.Os motivos para eu me sentir profundamente triste, são tantos, que se eu fosse listar, deixaria de ser um texto de trizteza profunda, para ser uma lista interminável de justificativas infelizes.Me sinto humilhada e diminuída como pessoa. É como se a vida não tivesse a mínima compaixão comigo . Ás vezes só clamo por misericórdia divina. Pois só quero paz, só quero ficar no meu canto, com sossego e silêncio. Mas eu quero um silêncio que deixa a respiração tranquila e o coração calmo, e não um silêncio que ensurdece e tortura a minha alma.Me sinto totalmente incapaz, pois por mais que eu tente sair dessa vida, eu não consigo. Me falta força, capacidade, ou sei lá o que. Eu simplesmente não consigo mudar a minha vida. Eu não consigo deixar de ser isso que sou. Estou presa nos meus medos e complexos. Vejo que virei prisoneira de mim mesmo.Essa tristeza profunda que me preenche por inteiro, tem sido a minha companhia de muito tempo. Nem todos a perceberam, e ainda acreditam no meu sorriso falso. Mal sabem eles, que dentro desse peito, guardo muita mágoa, raiva, dor e angústia.A única coisa que quero agora, é a quietude de uma vida com paz. Mas enquanto essa vida não vem, só me resta a tristeza, e um enorme sentimento de dor.",Negativo
+"Qualquer que seja o caminho que você escolher, busque a felicidade durante a caminhada. A felicidade não é o destino, não é um ponto de chegada. A felicidade é uma jornada, por isso ela pode e deve fazer parte da sua rotina.Não pense na felicidade como algo que só acontece em grandes momentos, ou em ocasiões especiais. Aprenda a cultivar e reconhecer a felicidade nas pequenas coisas, nas situações mais banais. Afinal, são essas situações que preenchem a vida. A vida não é feita só de grandes acontecimentos!Não ache que só será feliz quando a sua vida estiver livre de problemas e quando todos os seus sonhos forem realizados. Isto pode lhe causar uma grande frustração. Pense que a felicidade é uma escolha diária, é o modo como você leva a vida diariamente, e não uma recompensa que só vai chegar depois de tudo.Aproveite todos os momentos da vida para ser feliz, pois eles são únicos.",Positivo
+
+"Este produto é incrível.",Positivo
+"Não gosto deste produto. É péssimo.",Negativo
+"O clima hoje está perfeito.",Positivo
+"O filme foi uma decepção.",Negativo
+"O almoço foi excelente.",Positivo
+"Estou indiferente ao clima de hoje.",Neutro
+"Não consigo entender o filme.",Negativo
+"Minha tristeza continua.",Negativo
+"O pensamento é poderoso.",Positivo
+"Adorei a comida deste restaurante.",Positivo
+"O atendimento foi terrível.",Negativo
+"Esta música me faz sentir feliz.",Positivo
+"Este livro é entediante.",Negativo
+"O dia está normal.",Neutro
+"Meu dia foi péssimo.",Negativo
+"O cenário é deslumbrante.",Positivo
+"Não me importo com isso.",Neutro
+"O jogo foi emocionante.",Positivo
+"Estou me sentindo neutro.",Neutro
+"O tráfego está horrível.",Negativo
+"O bolo está delicioso.",Positivo
+"Não posso reclamar.",Neutro
+"Estou radiante de felicidade.",Positivo
+"A chuva estragou meu dia.",Negativo
+"Este filme é um clássico.",Positivo
+"Não vejo a hora de terminar.",Negativo
+"Este lugar é incrível.",Positivo
+"Estou me sentindo mal.",Negativo
+"A festa foi um sucesso.",Positivo
+"Não tenho opinião sobre isso.",Neutro
+"Estou apaixonado por este livro.",Positivo
+"Este é o pior presente de todos os tempos.",Negativo
+"O pôr do sol é lindo.",Positivo
+"Não estou nem aí.",Neutro
+"Este show foi uma experiência única.",Positivo
+"Não suporto mais isso.",Negativo
+"Este é o melhor dia da minha vida.",Positivo
+"Não sei o que pensar sobre isso.",Neutro
+"Este é o meu lugar feliz.",Positivo
+"Não há esperança.",Negativo
+"Adoro fazer isso.",Positivo
+"Isso não faz diferença para mim.",Neutro
+"Este é o meu sonho.",Positivo
+"Não suporto essa música.",Negativo
+"O amor é maravilhoso.",Positivo
+"Isso não é importante.",Neutro
+"Este é o meu lugar seguro.",Positivo
+"Não sinto nada.",Neutro
+"Este é o meu objetivo.",Positivo
+"Não me importo com o que você diz.",Neutro
+"Este é o meu destino.",Positivo
+"Não aguento mais isso.",Negativo
+"Este é o meu caminho.",Positivo
+"Não vejo sentido nisso.",Negativo
+"Este é o meu tesouro.",Positivo
+"Não tenho energia para isso.",Negativo
+"Este é o meu refúgio.",Positivo
+"Não vejo saída.",Negativo
+"Este é o meu segredo.",Positivo
+"Não estou no clima para isso.",Negativo
+"Este é o meu vício.",Positivo
+"Não tenho paciência para isso.",Negativo
+"Este é o meu prazer.",Positivo
+"Não estou interessado nisso.",Negativo
+"Este é o meu paraíso.",Positivo
+"Não me importo com o que acontece.",Neutro
+"Este é o meu santuário.",Positivo
+"Não estou com vontade de fazer isso.",Negativo
+"Este é o meu desejo.",Positivo
+"Não quero mais isso.",Negativo
+"Este é o meu mundo.",Positivo
+"Não me sinto à vontade com isso.",Negativo
+"Este é o meu lar.",Positivo
+"Não posso suportar isso.",Negativo
+"Este é o meu amor.",Positivo
+"Não vejo esperança.",Negativo
+"Este é o meu tempo.",Positivo
+"Não tenho desejo de fazer isso.",Negativo
+"Este é o meu espaço.",Positivo
+"Não me sinto bem com isso.",Negativo
+"Este é o meu lugar.",Positivo
+"Não tenho tolerância para isso.",Negativo
+"Este é o meu refúgio seguro.",Positivo
+"Não estou à vontade com isso.",Negativo
+"Este é o meu momento.",Positivo
+"Não quero mais lidar com isso.",Negativo
+"Este é o meu santuário seguro.",Positivo
+"Não suporto mais isso acontecendo.",Negativo
+"Este é o meu desejo secreto.",Positivo
+"Não estou interessado em fazer isso.",Negativo
+"Este é o meu mundo perfeito.",Positivo
+"Não me sinto bem com essa situação.",Negativo
+"Este é o meu lar doce lar.",Positivo
+"Não posso tolerar essa atitude.",Negativo
+"Este é o meu amor verdadeiro.",Positivo
+"Não vejo uma solução para isso.",Negativo
+"Este é o meu tempo precioso.",Positivo
+"Não tenho desejo de continuar assim.",Negativo
+"Este é o meu espaço seguro.",Positivo
+"Não me sinto à vontade com essa decisão.",Negativo
+"Este é o meu lugar feliz.",Positivo
+"Não tenho paciência para essa conversa.",Negativo
+"Este é o meu segredo profundo.",Positivo
+"Não estou com vontade de fazer isso agora.",Negativo
+"Este é o meu paraíso particular.",Positivo
+"Não quero mais lidar com esse problema.",Negativo
+"Este é o meu mundo mágico.",Positivo
+"Não vejo uma saída para isso.",Negativo
+"Este é o meu lar acolhedor.",Positivo
+"Não posso suportar essa situação.",Negativo
+"Este é o meu amor eterno.",Positivo
+"Não há esperança para isso.",Negativo
+"Este é o meu tempo valioso.",Positivo
+"Não tenho desejo de continuar com isso.",Negativo
+"Este é o meu espaço de conforto.",Positivo
+"Não me sinto bem com essa notícia.",Negativo
+"Este é o meu lugar especial.",Positivo
+"Não tenho tolerância para essa atitude.",Negativo
+"Este é o meu refúgio tranquilo.",Positivo
+"Não estou à vontade com essa situação.",Negativo
+"Este é o meu momento de alegria.",Positivo
+"Não quero mais lidar com esse problema difícil.",Negativo
+"Este é o meu santuário sagrado.",Positivo
+"Não suporto mais isso acontecendo repetidamente.",Negativo
+"Este é o meu desejo sincero.",Positivo
+"Não estou interessado em fazer isso de novo.",Negativo
+"Este é o meu mundo colorido.",Positivo
+"Não me sinto bem com essa atitude.",Negativo
+"Este é o meu lar amoroso.",Positivo
+"Não posso tolerar essa situação injusta.",Negativo
+"Este é o meu amor incondicional.",Positivo
+"Não vejo uma solução para essa questão.",Negativo
+"Este é o meu tempo de diversão.",Positivo
+"Não tenho desejo de continuar com esse projeto.",Negativo
+"Este é o meu espaço de tranquilidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil.",Negativo
+"Este é o meu lugar de serenidade.",Positivo
+"Não tenho paciência para essa conversa sem sentido.",Negativo
+"Este é o meu segredo valioso.",Positivo
+"Não estou com vontade de fazer isso hoje.",Negativo
+"Este é o meu paraíso secreto.",Positivo
+"Não quero mais lidar com esse problema complicado.",Negativo
+"Este é o meu mundo de maravilhas.",Positivo
+"Não vejo uma saída para essa situação frustrante.",Negativo
+"Este é o meu lar doce lar.",Positivo
+"Não posso suportar essa situação desafiadora.",Negativo
+"Este é o meu amor verdadeiro e duradouro.",Positivo
+"Não há esperança para essa circunstância difícil.",Negativo
+"Este é o meu tempo precioso e valioso.",Positivo
+"Não tenho desejo de continuar com essa tarefa tediosa.",Negativo
+"Este é o meu espaço seguro e acolhedor.",Positivo
+"Não me sinto à vontade com essa decisão importante.",Negativo
+"Este é o meu lugar feliz e contente.",Positivo
+"Não tenho paciência para essa situação irritante.",Negativo
+"Este é o meu segredo íntimo e pessoal.",Positivo
+"Não estou com vontade de fazer isso de novo.",Negativo
+"Este é o meu paraíso particular e único.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinta à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinta à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinta à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinta à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e entediante.",Negativo
+"Este é o meu espaço de tranquilidade e paz interior.",Positivo
+"Não me sinta à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar de serenidade e equilíbrio.",Positivo
+"Não tenho paciência para essa conversa sem sentido e repetitiva.",Negativo
+"Este é o meu segredo valioso e íntimo.",Positivo
+"Não estou com vontade de fazer isso hoje e agora.",Negativo
+"Este é o meu paraíso secreto e pessoal.",Positivo
+"Não quero mais lidar com esse problema complicado e desagradável.",Negativo
+"Este é o meu mundo mágico e encantado.",Positivo
+"Não vejo uma saída para essa questão delicada e desafiadora.",Negativo
+"Este é o meu lar acolhedor e reconfortante.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor eterno e inabalável.",Positivo
+"Não vejo uma solução para essa situação crítica e urgente.",Negativo
+"Este é o meu tempo valioso e precioso.",Positivo
+"Não tenho desejo de continuar com esse projeto cansativo e demorado.",Negativo
+"Este é o meu espaço de conforto e serenidade.",Positivo
+"Não me sinto à vontade com essa decisão difícil e importante.",Negativo
+"Este é o meu lugar especial e querido.",Positivo
+"Não tenho tolerância para essa atitude irritante e desrespeitosa.",Negativo
+"Este é o meu refúgio tranquilo e seguro.",Positivo
+"Não estou à vontade com essa situação complicada e desafiadora.",Negativo
+"Este é o meu momento de alegria e felicidade.",Positivo
+"Não quero mais lidar com esse problema difícil e exaustivo.",Negativo
+"Este é o meu santuário sagrado e intocado.",Positivo
+"Não suporto mais isso acontecendo repetidamente e constantemente.",Negativo
+"Este é o meu desejo sincero e profundo.",Positivo
+"Não estou interessado em fazer isso de novo e novamente.",Negativo
+"Este é o meu mundo colorido e vibrante.",Positivo
+"Não me sinto bem com essa atitude rude e desagradável.",Negativo
+"Este é o meu lar amoroso e acolhedor.",Positivo
+"Não posso tolerar essa situação injusta e insustentável.",Negativo
+"Este é o meu amor incondicional e eterno.",Positivo
+"Não vejo uma solução para essa questão delicada e complexa.",Negativo
+"Este é o meu tempo de diversão e descontração.",Positivo
+"Estou indo para o trabalho.",Neutro
+"Vou ao supermercado depois do almoço.",Neutro
+"Estou estudando para um exame.",Neutro
+"Vou dar um passeio no parque.",Neutro
+"O trânsito está tranquilo.",Neutro
+"O café da manhã foi bom.",Neutro
+"Vou visitar meus pais amanhã.",Neutro
+"O dia está ensolarado.",Neutro
+"Estou assistindo a um documentário.",Neutro
+"Gosto de caminhar ao ar livre.",Neutro
+"O jantar será servido em breve.",Neutro
+"Vou ao supermercado depois do trabalho.",Neutro
+"Estou organizando meu armário.",Neutro
+"Vou ao médico para um check-up.",Neutro
+"O livro que estou lendo é interessante.",Neutro
+"Estou planejando minhas férias.",Neutro
+"O filme foi lançado recentemente.",Neutro
+"Vou cozinhar o jantar mais tarde.",Neutro
+"O carro está na oficina.",Neutro
+"Estou esperando um amigo.",Neutro
+"O computador está funcionando bem.",Neutro
+"Vou ao banco para resolver um problema.",Neutro
+"O tempo está nublado hoje.",Neutro
+"Estou aprendendo um novo idioma.",Neutro
+"Vou ao ginásio para malhar.",Neutro
+"O almoço será leve.",Neutro
+"Estou pesquisando na internet.",Neutro
+"Vou ao cinema esta noite.",Neutro
+"O tráfego está fluindo bem.",Neutro
+"Estou cuidando das minhas plantas.",Neutro
+"Vou ao mercado fazer compras.",Neutro
+"O trabalho está ocupado hoje.",Neutro
+"Estou ouvindo música relaxante.",Neutro
+"Vou ao correio enviar uma carta.",Neutro
+"O dia está ameno.",Neutro
+"Estou atualizando meu currículo.",Neutro
+"Vou ao parque com meu cachorro.",Neutro
+"O chá está quente.",Neutro
+"Estou fazendo uma lista de tarefas.",Neutro
+"Vou ao centro da cidade.",Neutro
+"O computador está ligado.",Neutro
+"Estou verificando meus e-mails.",Neutro
+"Vou ao salão de beleza.",Neutro
+"O tempo está estável.",Neutro
+"Estou lendo notícias.",Neutro
+"Vou ao museu no fim de semana.",Neutro
+"O telefone está carregando.",Neutro
+"Estou assistindo a um programa de TV.",Neutro
+"Vou ao teatro com amigos.",Neutro
+"O dia está tranquilo.",Neutro
+"Estou navegando na web.",Neutro
+"Vou ao consultório médico.",Neutro
+"O livro está na mesa.",Neutro
+"Estou fazendo anotações.",Neutro
+"Vou ao parque de diversões.",Neutro
+"O café está fresco.",Neutro
+"Estou pesquisando para um projeto.",Neutro
+"Vou ao mercado de frutas.",Neutro
+"O trabalho está em andamento.",Neutro
+"Estou assistindo ao pôr do sol.",Neutro
+"Vou ao zoológico com as crianças.",Neutro
+"O tempo está agradável lá fora.",Neutro
+"Estou escrevendo no meu diário.",Neutro
+"Vou ao centro comercial.",Neutro
+"O carro está estacionado.",Neutro
+"Estou respondendo a e-mails.",Neutro
+"Vou ao restaurante italiano.",Neutro
+"O dia está ensolarado e quente.",Neutro
+"Estou planejando uma festa.",Neutro
+"Vou ao parque infantil.",Neutro
+"O computador está silencioso.",Neutro
+"Estou lendo um livro interessante.",Neutro
+"Vou ao cinema com amigos.",Neutro
+"O tempo está agradável.",Neutro
+"Estou preparando o almoço.",Neutro
+"Vou ao escritório de correio.",Neutro
+"O dia está começando bem.",Neutro
+"Estou organizando minha agenda.",Neutro
+"Vou ao banco fazer um depósito.",Neutro
+"O filme está em cartaz.",Neutro
+"Estou escrevendo um relatório.",Neutro
+"Vou ao parque de diversões com a família.",Neutro
+"O tempo está ameno hoje.",Neutro
+"Estou fazendo compras online.",Neutro
+"Vou ao supermercado no sábado.",Neutro
+"O trânsito está fluindo sem problemas.",Neutro
+"Estou assistindo a um jogo de futebol.",Neutro
+"Gosto de ler revistas.",Neutro
+"Vou ao museu de arte.",Neutro
+"O dia está começando com sol.",Neutro
+"Estou fazendo exercícios físicos.",Neutro
+"Vou ao consultório do dentista.",Neutro
+"O livro está na estante.",Neutro
+"Estou estudando para a prova.",Neutro
+"Vou ao restaurante tailandês.",Neutro
+"O tempo está agradável lá fora.",Neutro
+"Estou atualizando meu perfil nas redes sociais.",Neutro
+"Vou ao mercado de peixes.",Neutro
+"O trabalho está calmo hoje.",Neutro
+"Estou assistindo a um documentário interessante.",Neutro
+"Vou ao ginásio fazer musculação.",Neutro
+"O almoço será no terraço.",Neutro
+"Estou pesquisando informações online.",Neutro
+"Vou ao cinema sozinho.",Neutro
+"O tráfego está leve nesta manhã.",Neutro
+"Estou organizando minhas fotografias.",Neutro
+"Vou ao hospital para uma consulta.",Neutro
+"O dia está nublado e chuvoso.",Neutro
+"Estou aprendendo a cozinhar.",Neutro
+"Vou ao teatro na sexta-feira.",Neutro
+"O computador está ligado e pronto para uso.",Neutro
+"Estou verificando meu saldo bancário.",Neutro
+"Vou ao shopping para comprar roupas.",Neutro
+"O tempo está instável hoje.",Neutro
+"Estou assistindo a uma série de TV.",Neutro
+"Vou ao parque caminhar.",Neutro
+"O carro está estacionado na garagem.",Neutro
+"Estou respondendo a mensagens de texto.",Neutro
+"Vou ao restaurante mexicano com colegas.",Neutro
+"O dia está agradável para um piquenique.",Neutro
+"Estou planejando uma viagem de fim de semana.",Neutro
+"Vou ao mercado de vegetais.",Neutro
+"O trabalho está fluindo bem.",Neutro
+"Estou ouvindo música clássica.",Neutro
+"Vou ao centro da cidade fazer compras.",Neutro
+"O café está fresco e aromático.",Neutro
+"Estou fazendo anotações importantes.",Neutro
+"Vou ao parque de diversões com a família.",Neutro
+"O tempo está agradável para uma caminhada.",Neutro
+"Estou navegando na internet.",Neutro
+"Vou ao consultório do médico.",Neutro
+"O livro está na minha mochila.",Neutro
+"Estou fazendo uma pesquisa acadêmica.",Neutro
+"Vou ao mercado de produtos orgânicos.",Neutro
+"O trabalho está tranquilo hoje.",Neutro
+"Estou assistindo a um programa de culinária.",Neutro
+"Vou ao ginásio para fazer alongamentos.",Neutro
+"O almoço será no terraço do restaurante.",Neutro
+"Estou pesquisando preços online.",Neutro
+"Vou ao cinema com minha família.",Neutro
+"O tráfego está fluindo sem problemas na estrada.",Neutro
+"Estou cuidando das minhas plantas no jardim.",Neutro
+"Vou ao banco resolver uma questão financeira.",Neutro
+"O tempo está nublado, mas sem chuva.",Neutro
+"Estou aprendendo a tocar violão.",Neutro
+"Vou ao teatro assistir a uma peça.",Neutro
+"O computador está ligado e funcionando.",Neutro
+"Estou verificando as últimas notícias online.",Neutro
+"Vou ao shopping para comprar presentes.",Neutro
+"O dia está ensolarado e convidativo.",Neutro
+"Estou planejando uma festa de aniversário.",Neutro
+"Vou ao parque infantil com meus filhos.",Neutro
+"O carro está estacionado na garagem.",Neutro
+"Estou respondendo a e-mails de trabalho.",Neutro
+"Vou ao restaurante japonês com amigos.",Neutro
+"O dia está perfeito para um piquenique no parque.",Neutro
+"Estou atualizando meu blog pessoal.",Neutro
+"Vou ao mercado de produtos frescos.",Neutro
+"O trabalho está tranquilo e produtivo.",Neutro
+"Estou ouvindo música pop.",Neutro
+"Vou ao centro da cidade para uma reunião.",Neutro
+"O café está quentinho e saboroso.",Neutro
+"Estou fazendo anotações em uma conferência.",Neutro
+"Vou ao parque de diversões com meus sobrinhos.",Neutro
+"O tempo está ótimo para um piquenique.",Neutro
+"Estou navegando na web em busca de informações.",Neutro
+"Vou ao consultório do fisioterapeuta.",Neutro
+"O livro está na prateleira da sala.",Neutro
+"Estou fazendo pesquisa de mercado.",Neutro
+"Vou ao mercado de frutas e verduras.",Neutro
+"O trabalho está em andamento e bem organizado.",Neutro
+"Estou assistindo ao pôr do sol no campo.",Neutro
+"Vou ao zoológico com os primos.",Neutro
+"O tempo está agradável para um passeio.",Neutro
+"Estou escrevendo em meu caderno de ideias.",Neutro
+"Vou ao centro comercial fazer compras.",Neutro
+"O carro está estacionado em frente à casa.",Neutro
+"Estou respondendo a mensagens de amigos.",Neutro
+"Vou ao restaurante indiano com colegas de trabalho.",Neutro
+"O dia está perfeito para uma caminhada ao ar livre.",Neutro
+"Estou planejando uma viagem de férias.",Neutro
+"Vou ao mercado de produtos lácteos.",Neutro
+"O trabalho está calmo e tranquilo hoje.",Neutro
+"Estou ouvindo música relaxante no rádio.",Neutro
+"Vou ao centro da cidade para um compromisso.",Neutro
+"O café está delicioso e quentinho.",Neutro
+"Estou fazendo anotações em uma palestra.",Neutro
+"Vou ao parque de diversões com os filhos.",Neutro
+"O tempo está ótimo para uma caminhada no parque.",Neutro
+"Estou navegando na internet em busca de inspiração.",Neutro
+"Vou ao consultório do psicólogo.",Neutro
+"O livro está na mesa da sala.",Neutro
+"Estou fazendo pesquisa de mercado para um novo projeto.",Neutro
+"Vou ao mercado de produtos importados.",Neutro
+"O trabalho está fluindo de forma eficiente.",Neutro
+"Estou assistindo a uma série de comédia.",Neutro
+"Vou ao ginásio fazer yoga.",Neutro
+"O almoço será na varanda.",Neutro
+"Estou pesquisando informações para um artigo.",Neutro
+"Vou ao cinema com meu cônjuge.",Neutro
+"O tráfego está leve nesta tarde.",Neutro
+"Estou cuidando das minhas plantas no jardim de casa.",Neutro
+"Vou ao banco resolver uma questão financeira pessoal.",Neutro
+"O tempo está nublado, mas sem chuva à vista.",Neutro
+"Estou aprendendo a cozinhar pratos novos.",Neutro
+"Vou ao teatro assistir a uma peça de drama.",Neutro
+"O computador está ligado e funcionando perfeitamente.",Neutro
+"Estou verificando as atualizações de redes sociais.",Neutro
+"Vou ao shopping para comprar um presente especial.",Neutro
+"O dia está ensolarado e convidativo para atividades ao ar livre.",Neutro
+"Estou planejando uma festa surpresa.",Neutro
+"Vou ao parque infantil com meus sobrinhos.",Neutro
+"O carro está estacionado na garagem de casa.",Neutro
+"Estou respondendo a mensagens de texto dos amigos.",Neutro
+"Vou ao restaurante tailandês com a família.",Neutro
+"O dia está perfeito para um piquenique no campo.",Neutro
+"Estou atualizando meu blog de viagens.",Neutro
+"Vou ao mercado de produtos frescos e orgânicos.",Neutro
+"O trabalho está tranquilo e produtivo esta manhã.",Neutro
+"Estou ouvindo música pop no meu celular.",Neutro
+"Vou ao centro da cidade para um evento cultural.",Neutro
+"O café está quentinho e aromático como sempre.",Neutro
+"Estou fazendo anotações importantes durante a palestra.",Neutro
+"Vou ao parque de diversões com os sobrinhos.",Neutro
+"O tempo está ótimo para uma caminhada à beira-mar.",Neutro
+"Estou navegando na web em busca de receitas.",Neutro
+"Vou ao consultório do fisioterapeuta para uma sessão de reabilitação.",Neutro
+"O livro está na prateleira da minha estante de livros.",Neutro
+"Estou fazendo pesquisa de mercado para uma startup.",Neutro
+"Vou ao mercado de produtos frescos e naturais.",Neutro
+"O trabalho está tranquilo e concentrado hoje.",Neutro
+"Estou ouvindo música relaxante no meu sistema de som.",Neutro
+"Vou ao centro da cidade para encontrar um amigo.",Neutro
+"O café está fresco e convidativo.",Neutro
+"Estou fazendo anotações em uma conferência acadêmica.",Neutro
+"Vou ao parque de diversões com os primos e primas.",Neutro
+"O tempo está ótimo para um piquenique com a família.",Neutro
+"Estou navegando na internet em busca de notícias.",Neutro
+"Vou ao consultório do médico para um check-up de rotina.",Neutro
+"O livro está na minha estante de livros favorita.",Neutro
+"Estou fazendo pesquisa de mercado para uma empresa local.",Neutro
+"Vou ao mercado de produtos orgânicos e saudáveis.",Neutro
+"O trabalho está fluindo bem e de forma eficaz hoje.",Neutro
+"Estou assistindo a um programa de culinária na televisão.",Neutro
+"Vou ao ginásio para fazer exercícios aeróbicos.",Neutro
+"O almoço será no restaurante ao lado do escritório.",Neutro
+"Estou pesquisando informações para um projeto pessoal.",Neutro
+"Vou ao cinema com meu parceiro esta noite.",Neutro
+"O tráfego está leve nesta manhã de sábado.",Neutro
+"Estou cuidando das minhas plantas no jardim de inverno.",Neutro
+"Vou ao banco resolver uma questão financeira importante.",Neutro
+"O tempo está nublado, mas não chove no momento.",Neutro
+"Estou aprendendo a cozinhar pratos da culinária italiana.",Neutro
+"Vou ao teatro assistir a uma peça de teatro clássica.",Neutro
+"O computador está ligado e funcionando sem problemas.",Neutro
+"Estou verificando as notificações no meu celular.",Neutro
+"Vou ao shopping para comprar um presente de aniversário.",Neutro
+"O dia está ensolarado e convidativo para um piquenique.",Neutro
+"Estou planejando uma viagem de aventura para o próximo mês.",Neutro
+"Vou ao mercado de produtos lácteos e queijos.",Neutro
+"O trabalho está calmo e tranquilo nesta tarde de sexta-feira.",Neutro
+"Estou ouvindo música relaxante enquanto leio um livro.",Neutro
+"Vou ao centro da cidade para uma consulta médica.",Neutro
+"O café está quentinho e perfumado como de costume.",Neutro
+"Estou fazendo anotações em uma reunião de negócios.",Neutro
+"Vou ao parque de diversões com meus netos.",Neutro
+"O tempo está ótimo para uma caminhada no bosque.",Neutro
+"Estou navegando na web em busca de receitas saudáveis.",Neutro
+"Vou ao consultório do dentista para uma limpeza de rotina.",Neutro
+"O livro está na minha estante de livros de ficção.",Neutro
+"Estou fazendo pesquisa de mercado para uma nova startup.",Neutro
+"Vou ao mercado de produtos frescos e orgânicos.",Neutro
+"O trabalho está tranquilo e produtivo nesta manhã de segunda-feira.",Neutro
+"Estou ouvindo música clássica enquanto trabalho.",Neutro
+"Vou ao centro da cidade para uma reunião de negócios.",Neutro
+"O café está quente e saboroso.",Neutro
+"Estou fazendo anotações em uma conferência importante.",Neutro
+"Vou ao parque de diversões com os sobrinhos e sobrinhas.",Neutro
+"O tempo está agradável para uma caminhada à beira do lago.",Neutro
+"Estou navegando na internet em busca de ideias criativas.",Neutro
+"Vou ao consultório do fisioterapeuta para uma sessão de reabilitação.",Neutro
+"O livro está na estante da sala de estar.",Neutro
+"Estou fazendo pesquisa de mercado para um novo projeto empresarial.",Neutro
+"Vou ao mercado de produtos frescos e naturais.",Neutro
+"O trabalho está calmo e concentrado nesta manhã de terça-feira.",Neutro
+"Estou assistindo a um filme de comédia no meu tempo livre.",Neutro
+"Vou ao ginásio para fazer aulas de pilates.",Neutro
+"O almoço será no terraço do restaurante favorito.",Neutro
+"Estou pesquisando informações para um artigo acadêmico.",Neutro
+"Vou ao cinema com meu melhor amigo hoje à noite.",Neutro
+"O tráfego está leve nesta tarde de quarta-feira.",Neutro
+"Estou cuidando das minhas plantas na varanda.",Neutro
+"Vou ao banco resolver uma questão financeira pessoal.",Neutro
+"O tempo está nublado, mas não chove.",Neutro
+"Estou aprendendo a cozinhar pratos da culinária japonesa.",Neutro
+"Vou ao teatro assistir a uma peça de teatro contemporânea.",Neutro
+"O computador está ligado e funcionando perfeitamente.",Neutro
+"Estou verificando as atualizações nas redes sociais.",Neutro
+"Vou ao shopping para comprar roupas novas.",Neutro
+"O dia está ensolarado e convidativo para atividades ao ar livre.",Neutro
+"Estou planejando uma viagem para a praia no próximo verão.",Neutro
+"Vou ao mercado de produtos frescos e orgânicos.",Neutro
+"O trabalho está tranquilo e produtivo nesta tarde de quinta-feira.",Neutro
+"Estou ouvindo música pop no meu carro.",Neutro
+"Vou ao centro da cidade para um evento cultural.",Neutro
+"O café está quente e delicioso como sempre.",Neutro
+"Estou fazendo anotações em uma reunião de negócios importante.",Neutro
+"Vou ao parque de diversões com os netos e netas.",Neutro
+"O tempo está ótimo para uma caminhada na floresta.",Neutro
+"Estou navegando na web em busca de informações úteis.",Neutro
+"Vou ao consultório do médico para uma consulta de rotina.",Neutro
+"O livro está na minha mesa de cabeceira.",Neutro
+"Estou fazendo pesquisa de mercado para uma nova empresa.",Neutro
+"Vou ao mercado de produtos frescos e saudáveis.",Neutro
+"O trabalho está calmo e concentrado nesta manhã de sexta-feira.",Neutro
+"Estou assistindo a um programa de culinária na televisão.",Neutro
+"Vou ao ginásio fazer exercícios aeróbicos.",Neutro
+"O almoço será na varanda do restaurante preferido.",Neutro
+"Estou pesquisando informações para um projeto pessoal.",Neutro
+"Vou ao cinema com meu parceiro esta noite.",Neutro
+"O tráfego está leve nesta manhã de sábado.",Neutro
+"Estou cuidando das minhas plantas no jardim de casa.",Neutro
+"Vou ao banco resolver uma questão financeira importante.",Neutro
+"O tempo está nublado, mas não chove no momento.",Neutro
+"Estou aprendendo a cozinhar pratos da culinária italiana.",Neutro
+"Vou ao teatro assistir a uma peça de teatro clássica.",Neutro
+"O computador está ligado e funcionando sem problemas.",Neutro
+"Estou verificando as notificações no meu celular.",Neutro
+"Vou ao shopping para comprar um presente de aniversário.",Neutro
+"O dia está ensolarado e convidativo para um piquenique.",Neutro
+"Estou planejando uma viagem de aventura para o próximo mês.",Neutro
+"Vou ao mercado de produtos lácteos e queijos.",Neutro
+"O trabalho está tranquilo e produtivo nesta manhã de segunda-feira.",Neutro
+"Estou ouvindo música relaxante enquanto leio um livro.",Neutro
+"Vou ao centro da cidade para uma reunião de negócios.",Neutro
+"O café está quentinho e perfumado como de costume.",Neutro
+"Estou fazendo anotações em uma conferência importante.",Neutro
+"Vou ao parque de diversões com os sobrinhos e sobrinhas.",Neutro
+"O tempo está ótimo para uma caminhada à beira do lago.",Neutro
+"Estou navegando na web em busca de ideias criativas.",Neutro
+"Vou ao consultório do fisioterapeuta para uma sessão de reabilitação.",Neutro
+"O livro está na estante da sala de estar.",Neutro
+"Estou fazendo pesquisa de mercado para uma nova startup.",Neutro
+"Vou ao mercado de produtos frescos e naturais.",Neutro
+"O trabalho está calmo e concentrado nesta manhã de terça-feira.",Neutro
+"Estou assistindo a um filme de comédia no meu tempo livre.",Neutro
+"Vou ao ginásio para fazer aulas de pilates.",Neutro
+"O almoço será no terraço do restaurante favorito.",Neutro
+"Estou pesquisando informações para um artigo acadêmico.",Neutro
+"Vou ao cinema com meu melhor amigo hoje à noite.",Neutro
+"O tráfego está leve nesta tarde de quarta-feira.",Neutro
+"Estou cuidando das minhas plantas na varanda.",Neutro
+"Vou ao banco resolver uma questão financeira pessoal.",Neutro
+"O tempo está nublado, mas não chove.",Neutro
+"Estou aprendendo a cozinhar pratos da culinária japonesa.",Neutro
+"Vou ao teatro assistir a uma peça de teatro contemporânea.",Neutro
+"O computador está ligado e funcionando perfeitamente.",Neutro
+"Estou verificando as atualizações nas redes sociais.",Neutro
+"Vou ao shopping para comprar roupas novas.",Neutro
+"O dia está ensolarado e convidativo para atividades ao ar livre.",Neutro
+"Estou planejando uma viagem para a praia no próximo verão.",Neutro
+"Vou ao mercado de produtos frescos e orgânicos.",Neutro
+"O trabalho está tranquilo e produtivo nesta tarde de quinta-feira.",Neutro
+"Estou ouvindo música pop no meu carro.",Neutro
+"Vou ao centro da cidade para um evento cultural.",Neutro
+"O café está quente e delicioso como sempre.",Neutro
+"Estou fazendo anotações em uma reunião de negócios importante.",Neutro
+"Vou ao parque de diversões com os netos e netas.",Neutro
+"O tempo está ótimo para uma caminhada na floresta.",Neutro
+"Estou navegando na web em busca de informações úteis.",Neutro
+"Vou ao consultório do médico para uma consulta de rotina.",Neutro
+"O livro está na minha mesa de cabeceira.",Neutro
+"Estou fazendo pesquisa de mercado para uma nova empresa.",Neutro
+"Vou ao mercado de produtos frescos e saudáveis.",Neutro
+"O trabalho está calmo e concentrado nesta manhã de sexta-feira.",Neutro
+"Estou assistindo a um programa de culinária na televisão.",Neutro
+"Vou ao ginásio fazer exercícios aeróbicos.",Neutro
+"O almoço será na varanda do restaurante preferido.",Neutro
+"Estou pesquisando informações para um projeto pessoal.",Neutro
+"Vou ao cinema com meu parceiro esta noite.",Neutro
+"O tráfego está leve nesta manhã de sábado.",Neutro
+"Estou cuidando das minhas plantas no jardim de casa.",Neutro
+"Vou ao banco resolver uma questão financeira importante.",Neutro
+"O tempo está nublado, mas não chove no momento.",Neutro
+"Estou aprendendo a cozinhar pratos da culinária italiana.",Neutro
+"Vou ao teatro assistir a uma peça de teatro clássica.",Neutro
+"O computador está ligado e funcionando sem problemas.",Neutro
+"Estou verificando as notificações no meu celular.",Neutro
+"Vou ao shopping para comprar um presente de aniversário.",Neutro
+"O dia está ensolarado e convidativo para um piquenique.",Neutro
+"Estou planejando uma viagem de aventura para o próximo mês.",Neutro
+"Vou ao mercado de produtos lácteos e queijos.",Neutro
+"O trabalho está tranquilo e produtivo nesta manhã de segunda-feira.",Neutro
+"Estou ouvindo música relaxante enquanto leio um livro.",Neutro
+"Vou ao centro da cidade para uma reunião de negócios.",Neutro
+"O café está quentinho e perfumado como de costume.",Neutro
+"Estou fazendo anotações em uma conferência importante.",Neutro
+"Vou ao parque de diversões com os sobrinhos e sobrinhas.",Neutro
+"O tempo está ótimo para uma caminhada à beira do lago.",Neutro
+"Estou navegando na web em busca de ideias criativas.",Neutro
+"Vou ao consultório do fisioterapeuta para uma sessão de reabilitação.",Neutro
+"O livro está na estante da sala de estar.",Neutro
+"Estou fazendo pesquisa de mercado para uma nova startup.",Neutro
+"Vou ao mercado de produtos frescos e naturais.",Neutro
+"O trabalho está calmo e concentrado nesta manhã de terça-feira.",Neutro
+"Estou assistindo a um filme de comédia no meu tempo livre.",Neutro
+"Vou ao ginásio para fazer aulas de pilates.",Neutro
+"O almoço será no terraço do restaurante favorito.",Neutro
+"Estou pesquisando informações para um artigo acadêmico.",Neutro
+"Vou ao cinema com meu melhor amigo hoje à noite.",Neutro
+"O tráfego está leve nesta tarde de quarta-feira.",Neutro
+"Estou cuidando das minhas plantas na varanda.",Neutro
+"Vou ao banco resolver uma questão financeira pessoal.",Neutro
+"O tempo está nublado, mas não chove.",Neutro
+"Estou aprendendo a cozinhar pratos da culinária japonesa.",Neutro
+"Vou ao teatro assistir a uma peça de teatro contemporânea.",Neutro
+"O computador está ligado e funcionando perfeitamente.",Neutro
+"Estou verificando as atualizações nas redes sociais.",Neutro
+"Vou ao shopping para comprar roupas novas.",Neutro
+"Me machuquei quando caí de bicicleta.",Negativo
+"Eu tive um pequeno acidente de bicicleta, mas estou bem agora.",Negativo
+"Caí da bicicleta, mas não me machuquei.",Neutro
+"Minha bicicleta quebrou enquanto eu estava pedalando.",Negativo
+"Eu amo andar de bicicleta no parque.",Positivo
+"A bicicleta é meu meio de transporte favorito.",Positivo
+"A bicicleta é uma ótima maneira de se exercitar.",Positivo
+"Eu gosto de pedalar na trilha aos finais de semana.",Positivo
+"Andar de bicicleta me deixa relaxado.",Positivo
+"Eu participo de competições de ciclismo.",Positivo
+"Ciclismo é um esporte incrível.",Positivo
+"Eu sempre quis ter uma bicicleta de montanha.",Positivo
+"Minha bicicleta foi roubada ontem.",Negativo
+"Eu preciso consertar minha bicicleta.",Negativo
+"Adoro explorar novos lugares de bicicleta.",Positivo
+"Eu nunca aprendi a andar de bicicleta.",Negativo
+"Pedalar é uma ótima forma de se exercitar.",Positivo
+"Eu tenho uma bicicleta de estrada.",Positivo
+"Eu pedalo para o trabalho todos os dias.",Positivo
+"Eu gosto de pedalar com os amigos.",Positivo
+"Eu não confio nas estradas para andar de bicicleta.",Negativo
+"Eu fiz um passeio de bicicleta incrível hoje.",Positivo
+"A bicicleta é uma invenção maravilhosa.",Positivo
+"Eu faço trilhas de bicicleta no fim de semana.",Positivo
+"Andar de bicicleta é uma experiência libertadora.",Positivo
+"Eu prefiro andar de bicicleta do que dirigir.",Positivo
+"Eu estou pensando em comprar uma bicicleta elétrica.",Positivo
+"Eu fui atropelado por um carro enquanto andava de bicicleta.",Negativo
+"Minha bicicleta está enferrujada.",Negativo
+"Eu pedalo com meu filho no parque.",Positivo
+"Eu usei minha bicicleta para uma viagem de acampamento.",Positivo
+"Pedalar é uma ótima maneira de conhecer novas pessoas.",Positivo
+"Minha bicicleta precisa de uma revisão.",Negativo
+"A bicicleta é uma alternativa ecológica ao carro.",Positivo
+"Eu faço parte de um clube de ciclistas.",Positivo
+"Eu só ando de bicicleta no verão.",Positivo
+"Eu gosto de pedalar nas montanhas.",Positivo
+"Eu fui a um evento de ciclismo este fim de semana.",Positivo
+"Eu adoro a sensação do vento no rosto enquanto pedalo.",Positivo
+"Eu pedalo para me manter em forma.",Positivo
+"A bicicleta é uma máquina simples e eficaz.",Positivo
+"Eu não sei como consertar um pneu furado de bicicleta.",Negativo
+"Andar de bicicleta é um ótimo passatempo.",Positivo
+"Eu gostaria de fazer uma viagem de bicicleta pela Europa.",Positivo
+"Eu vou comprar uma bicicleta de corrida.",Positivo
+"A bicicleta é uma forma divertida de explorar a cidade.",Positivo
+"Eu sempre levo minha bicicleta nas férias.",Positivo
+"Andar de bicicleta me faz sentir livre.",Positivo
+"Eu adoro assistir às corridas de ciclismo na TV.",Positivo
+"Eu fui multado por andar de bicicleta na calçada.",Negativo
+"Minha bicicleta está enferrujada por falta de uso.",Negativo
+"Eu costumava andar de bicicleta para a escola quando era criança.",Positivo
+"Eu nunca aprendi a andar de bicicleta sem as rodinhas.",Negativo
+"Eu gosto de pedalar enquanto ouço música.",Positivo
+"Eu fiz um passeio de bicicleta à beira-mar.",Positivo
+"Eu pedalo para relaxar após um longo dia de trabalho.",Positivo
+"Eu tive um pneu furado enquanto estava no meio do nada.",Negativo
+"Minha bicicleta é minha principal forma de transporte.",Positivo
+"Eu não confio nos motoristas para andar de bicicleta na cidade.",Negativo
+"Eu pedalo para manter minha saúde em dia.",Positivo
+"Eu gosto de andar de bicicleta em trilhas desafiadoras.",Positivo
+"Eu prefiro andar de bicicleta do que usar o ônibus.",Positivo
+"Minha bicicleta de montanha é minha paixão.",Positivo
+"Eu gosto de pedalar no campo.",Positivo
+"Eu fiz uma viagem de bicicleta de costa a costa.",Positivo
+"Minha bicicleta elétrica torna as subidas mais fáceis.",Positivo
+
+"Odeio este produto, é terrível.","Negativo"
+"Não gosto nada disso, péssimo.","Negativo"
+"Isso é horrível, não recomendo.","Negativo"
+"Que péssima experiência, estou muito insatisfeito.","Negativo"
+"Detestei, nunca mais vou comprar.","Negativo"
+"Não suporto isso, é uma perda de tempo.","Negativo"
+"Estou muito chateado com a qualidade.","Negativo"
+"Isso é um completo desastre.","Negativo"
+"Estou muito desapontado.","Negativo"
+"Não consigo suportar, é péssimo.","Negativo"
+"Não aguento mais, é muito ruim.","Negativo"
+"Que decepção, não era o que esperava.","Negativo"
+"Isso é um pesadelo, não recomendo.","Negativo"
+"Estou frustrado com esta compra.","Negativo"
+"Não vale a pena, é um desperdício de dinheiro.","Negativo"
+"O serviço é péssimo, não recomendo.","Negativo"
+"Não suporto mais, é uma péssima escolha.","Negativo"
+"Que desastre, não recomendo a ninguém.","Negativo"
+"Isso é um erro, não compre.","Negativo"
+"Estou irritado, não era o que eu queria.","Negativo"
+"Não aguento mais, é uma péssima experiência.","Negativo"
+"Que péssimo atendimento, não voltarei.","Negativo"
+"Isso é horrível, não recomendo.","Negativo"
+"Estou muito descontente.","Negativo"
+"Não suporto isso, é uma péssima decisão.","Negativo"
+"Não consigo acreditar como é ruim.","Negativo"
+"Não vale a pena, é uma decepção.","Negativo"
+"Isso é inaceitável, estou muito insatisfeito.","Negativo"
+"Estou muito desapontado com o serviço.","Negativo"
+"Não gosto nada disso, é péssimo.","Negativo"
+"Que desperdício de dinheiro, não vale a pena.","Negativo"
+"Isso é terrível, não recomendo.","Negativo"
+"Estou muito chateado com esta compra.","Negativo"
+"Não suporto mais, é uma péssima escolha.","Negativo"
+"Que decepção, não era o que eu esperava.","Negativo"
+"Isso é um pesadelo, não recomendo.","Negativo"
+"Estou frustrado com a qualidade.","Negativo"
+"Não vale a pena, é um erro.","Negativo"
+"O serviço é péssimo, não recomendo.","Negativo"
+"Não suporto mais, é muito ruim.","Negativo"
+"Que desastre, não recomendo a ninguém.","Negativo"
+"Isso é um completo desastre.","Negativo"
+"Estou muito desapontado.","Negativo"
+"Não consigo suportar, é péssimo.","Negativo"
+"Não aguento mais, é uma perda de tempo.","Negativo"
+"Que péssima experiência, estou muito insatisfeito.","Negativo"
+"Detestei, nunca mais vou comprar.","Negativo"
+"Não gosto nada disso, é terrível.","Negativo"
+"Isso é horrível, não recomendo.","Negativo"
+"Estou muito chateado com a qualidade.","Negativo"
+"Isso é um completo desastre.","Negativo"
+"Estou muito desapontado.","Negativo"
+"Não consigo suportar, é péssimo.","Negativo"
+"Não aguento mais, é muito ruim.","Negativo"
+"Que decepção, não era o que esperava.","Negativo"
+"Isso é um pesadelo, não recomendo.","Negativo"
+"Estou frustrado com esta compra.","Negativo"
+"Não vale a pena, é um desperdício de dinheiro.","Negativo"
+"O serviço é péssimo, não recomendo.","Negativo"
+"Não suporto isso, é uma péssima escolha.","Negativo"
+"Que desastre, não recomendo a ninguém.","Negativo"
+"Isso é um erro, não compre.","Negativo"
+"Estou irritado, não era o que eu queria.","Negativo"
+"Não aguento mais, é uma péssima experiência.","Negativo"
+"Que péssimo atendimento, não voltarei.","Negativo"
+"Isso é horrível, não recomendo.","Negativo"
+"Estou muito descontente.","Negativo"
+"Não suporto isso, é uma péssima decisão.","Negativo"
+"Não consigo acreditar como é ruim.","Negativo"
+"Não vale a pena, é uma decepção.","Negativo"
+"Isso é inaceitável, estou muito insatisfeito.","Negativo"
+"Estou muito desapontado com o serviço.","Negativo"
+"Não gosto nada disso, é péssimo.","Negativo"
+"Que desperdício de dinheiro, não vale a pena.","Negativo"
+"Isso é terrível, não recomendo.","Negativo"
+"Estou muito chateado com esta compra.","Negativo"
+"Não suporto mais, é uma péssima escolha.","Negativo"
+"Que decepção, não era o que eu esperava.","Negativo"
+"Isso é um pesadelo, não recomendo.","Negativo"
+"Estou frustrado com a qualidade.","Negativo"
+"Não vale a pena, é um erro.","Negativo"
+"O serviço é péssimo, não recomendo.","Negativo"
+"Não suporto mais, é muito ruim.","Negativo"
+"Que desastre, não recomendo a ninguém.","Negativo"
+"Isso é um completo desastre.","Negativo"
+"Estou muito desapontado.","Negativo"
+"Não consigo suportar, é péssimo.","Negativo"
+"Não aguento mais, é uma perda de tempo.","Negativo"
+"Que péssima experiência, estou muito insatisfeito.","Negativo"
+"Detestei, nunca mais vou comprar.","Negativo"
+"Não gosto nada disso, é terrível.","Negativo"
+"Isso é horrível, não recomendo.","Negativo"
+"Estou muito chateado com a qualidade.","Negativo"
+"Isso é um completo desastre.","Negativo"
+"Estou muito desapontado.","Negativo"
+"Não consigo suportar, é péssimo.","Negativo"
+"Não aguento mais, é muito ruim.","Negativo"
+"Que decepção, não era o que esperava.","Negativo"
+"Isso é um pesadelo, não recomendo.","Negativo"
+"Estou frustrado com esta compra.","Negativo"
+"Não vale a pena, é um desperdício de dinheiro.","Negativo"
+"O serviço é péssimo, não recomendo.","Negativo"
+"Não suporto isso, é uma péssima escolha.","Negativo"
+"Que desastre, não recomendo a ninguém.","Negativo"
+"Isso é um erro, não compre.","Negativo"
+"Estou irritado, não era o que eu queria.","Negativo"
+"Não aguento mais, é uma péssima experiência.","Negativo"
+"Que péssimo atendimento, não voltarei.","Negativo"
+"Isso é horrível, não recomendo.","Negativo"
+"Estou muito descontente.","Negativo"
+"Não suporto isso, é uma péssima decisão.","Negativo"
+"Não consigo acreditar como é ruim.","Negativo"
+"Não vale a pena, é uma decepção.","Negativo"
+"Isso é inaceitável, estou muito insatisfeito.","Negativo"
+"Estou muito desapontado com o serviço.","Negativo"
+"Não gosto nada disso, é péssimo.","Negativo"
+"Que desperdício de dinheiro, não vale a pena.","Negativo"
+"Isso é terrível, não recomendo.","Negativo"
+"Estou muito chateado com esta compra.","Negativo"
+"Não suporto mais, é uma péssima escolha.","Negativo"
+"Que decepção, não era o que eu esperava.","Negativo"
+"Isso é um pesadelo, não recomendo.","Negativo"
+"Estou frustrado com a qualidade.","Negativo"
+"Não vale a pena, é um erro.","Negativo"
+"O serviço é péssimo, não recomendo.","Negativo"
+"Não suporto isso, é uma péssima decisão.","Negativo"
+"Que desastre, não recomendo a ninguém.","Negativo"
+"Isso é um erro, não compre.","Negativo"
+"Estou irritado, não era o que eu queria.","Negativo"
+"Não aguento mais, é uma péssima experiência.","Negativo"
+"Que péssimo atendimento, não voltarei.","Negativo"
+"Isso é horrível, não recomendo.","Negativo"
+"Estou muito descontente.","Negativo"
+"Não suporto isso, é uma péssima decisão.","Negativo"
+"Não consigo acreditar como é ruim.","Negativo"
+"Não vale a pena, é uma decepção.","Negativo"
+"Isso é inaceitável, estou muito insatisfeito.","Negativo"
+"Estou muito desapontado com o serviço.","Negativo"
+
+"Estou muito feliz hoje!","Positivo"
+"Adoro quando isso acontece.","Positivo"
+"Isso é incrível!","Positivo"
+"Estou animado para o que o futuro reserva.","Positivo"
+"Adoro quando o sol está brilhando.","Positivo"
+"Estou me sentindo ótimo hoje.","Positivo"
+"Isso é maravilhoso!","Positivo"
+"Estou empolgado para este novo projeto.","Positivo"
+"Adoro estar cercado de amigos.","Positivo"
+"Isso me faz sorrir.","Positivo"
+"Estou no topo do mundo.","Positivo"
+"Adoro quando as coisas dão certo.","Positivo"
+"Isso é perfeito!","Positivo"
+"Estou me divertindo muito.","Positivo"
+"Adoro momentos como este.","Positivo"
+"Isso é incrivelmente inspirador.","Positivo"
+"Estou cheio de energia.","Positivo"
+"Adoro quando as pessoas são gentis.","Positivo"
+"Isso é um verdadeiro tesouro.","Positivo"
+"Estou muito grato por tudo.","Positivo"
+"Adoro quando meus sonhos se tornam realidade.","Positivo"
+"Isso é absolutamente fenomenal!","Positivo"
+"Estou inspirado a fazer mais.","Positivo"
+"Adoro quando a vida sorri para mim.","Positivo"
+"Isso é uma conquista incrível.","Positivo"
+"Estou me sentindo abençoado.","Positivo"
+"Adoro quando as coisas são simples.","Positivo"
+"Isso é brilhante!","Positivo"
+"Estou ansioso para o futuro.","Positivo"
+"Adoro quando tudo se encaixa.","Positivo"
+"Isso é espetacular.","Positivo"
+"Estou me divertindo ao máximo.","Positivo"
+"Adoro quando as pessoas são generosas.","Positivo"
+"Isso é uma verdadeira obra-prima.","Positivo"
+"Estou muito contente com o resultado.","Positivo"
+"Adoro quando as coisas fluem suavemente.","Positivo"
+"Isso é simplesmente incrível!","Positivo"
+"Estou vivendo o melhor momento da minha vida.","Positivo"
+"Adoro quando a natureza é bela.","Positivo"
+"Isso é um triunfo.","Positivo"
+"Estou radiante de alegria.","Positivo"
+"Adoro quando as pessoas são solidárias.","Positivo"
+"Isso é um verdadeiro presente.","Positivo"
+"Estou emocionado com esta oportunidade.","Positivo"
+"Adoro quando as coisas são perfeitas.","Positivo"
+"Isso é uma verdadeira maravilha.","Positivo"
+"Estou me sentindo incrivelmente sortudo.","Positivo"
+"Adoro quando as coisas são harmoniosas.","Positivo"
+"Isso é uma inspiração para mim.","Positivo"
+"Estou maravilhado com a beleza do mundo.","Positivo"
+"Adoro quando as pessoas são amigáveis.","Positivo"
+"Isso é um sonho que se tornou realidade.","Positivo"
+"Estou apaixonado por esta ideia.","Positivo"
+"Adoro quando as coisas são surpreendentes.","Positivo"
+"Isso é realmente notável!","Positivo"
+"Estou me sentindo revigorado.","Positivo"
+"Adoro quando as pessoas são gentis umas com as outras.","Positivo"
+"Isso é absolutamente excepcional.","Positivo"
+"Estou cheio de entusiasmo.","Positivo"
+"Adoro quando a vida é cheia de aventuras.","Positivo"
+"Isso é uma alegria para o coração.","Positivo"
+"Estou grato por este momento.","Positivo"
+"Adoro quando as coisas são recompensadoras.","Positivo"
+"Isso é um verdadeiro deleite.","Positivo"
+"Estou me sentindo incrivelmente otimista.","Positivo"
+"Adoro quando as pessoas são inspiradoras.","Positivo"
+"Isso é um tesouro precioso.","Positivo"
+"Estou impressionado com este resultado.","Positivo"
+"Adoro quando as coisas são fascinantes.","Positivo"
+"Isso é simplesmente espetacular!","Positivo"
+"Estou ansioso para o que está por vir.","Positivo"
+"Adoro quando tudo se encaixa perfeitamente.","Positivo"
+"Isso é uma conquista incrível.","Positivo"
+"Estou me sentindo abençoado e grato.","Positivo"
+"Adoro quando a vida é cheia de surpresas boas.","Positivo"
+"Isso é absolutamente fenomenal!","Positivo"
+"Estou inspirado a alcançar grandes feitos.","Positivo"
+"Adoro quando a natureza é deslumbrante.","Positivo"
+"Isso é uma verdadeira obra de arte.","Positivo"
+"Estou muito satisfeito com este resultado.","Positivo"
+"Adoro quando as coisas fluem naturalmente.","Positivo"
+"Isso é simplesmente incrível!","Positivo"
+"Estou vivendo o meu melhor momento.","Positivo"
+"Adoro quando as pessoas são generosas e prestativas.","Positivo"
+"Isso é um presente maravilhoso.","Positivo"
+"Estou emocionado com esta incrível oportunidade.","Positivo"
+"Adoro quando as coisas se encaixam perfeitamente.","Positivo"
+"Isso é verdadeiramente excepcional.","Positivo"
+"Estou cheio de entusiasmo e energia positiva.","Positivo"
+
+
+"Isso é ok, não é ruim nem bom.","Neutro"
+"Não tenho opinião sobre isso.","Neutro"
+"Está tudo normal.","Neutro"
+"Não é nem bom nem ruim.","Neutro"
+"Não tenho sentimentos em relação a isso.","Neutro"
+"Isso é indiferente para mim.","Neutro"
+"Não me importo com isso.","Neutro"
+"Não tenho preferência.","Neutro"
+"Isso não faz diferença.","Neutro"
+"Não tenho nada a dizer sobre isso.","Neutro"
+"Está tudo bem.","Neutro"
+"Não estou nem aí para isso.","Neutro"
+"Não tenho um julgamento forte.","Neutro"
+"Isso não me afeta.","Neutro"
+"Não tenho uma opinião forte sobre isso.","Neutro"
+"Está tudo tranquilo.","Neutro"
+"Não tenho inclinação positiva ou negativa.","Neutro"
+"Isso não me emociona.","Neutro"
+"Não me importo muito.","Neutro"
+"Não é grande coisa.","Neutro"
+"Isso não é relevante.","Neutro"
+"Não tenho uma preferência clara.","Neutro"
+"Está tudo normal para mim.","Neutro"
+"Não tenho um sentimento forte.","Neutro"
+"Isso não é significativo para mim.","Neutro"
+"Não tenho uma opinião formada.","Neutro"
+"Está tudo igual.","Neutro"
+"Não é nem aqui nem ali.","Neutro"
+"Isso não me comove.","Neutro"
+"Não me afeta muito.","Neutro"
+"Não tenho muito a dizer sobre isso.","Neutro"
+"Está tudo na média.","Neutro"
+"Não tenho uma forte reação.","Neutro"
+"Isso não me excita.","Neutro"
+"Não estou nem empolgado nem desapontado.","Neutro"
+"Não tenho uma opinião extrema.","Neutro"
+"Está tudo neutro.","Neutro"
+"Não tenho emoções intensas em relação a isso.","Neutro"
+"Isso não é importante para mim.","Neutro"
+"Não me anima.","Neutro"
+"Não tenho muito a comentar.","Neutro"
+"Está tudo regular.","Neutro"
+"Não tenho uma opinião firme.","Neutro"
+"Isso não me toca.","Neutro"
+"Não me emociona de forma alguma.","Neutro"
+"Não tenho sentimentos fortes sobre isso.","Neutro"
+"Está tudo ok.","Neutro"
+"Não tenho uma preferência definida.","Neutro"
+"Isso não me faz sentir nada.","Neutro"
+"Não me impressiona.","Neutro"
+"Não tenho uma opinião radical.","Neutro"
+"Está tudo médio.","Neutro"
+"Não tenho uma reação intensa.","Neutro"
+"Isso não me entusiasma.","Neutro"
+"Não estou nem empolgado nem decepcionado.","Neutro"
+"Não tenho uma opinião extrema.","Neutro"
+"Está tudo equilibrado.","Neutro"
+"Não tenho sentimentos intensos em relação a isso.","Neutro"
+"Isso não é relevante para mim.","Neutro"
+"Não me desperta interesse.","Neutro"
+"Não tenho muito a dizer sobre isso.","Neutro"
+"Está tudo dentro da média.","Neutro"
+"Não tenho uma opinião firme.","Neutro"
+"Isso não me afeta emocionalmente.","Neutro"
+"Não me toca profundamente.","Neutro"
+"Não tenho sentimentos fortes sobre isso.","Neutro"
+"Está tudo bem.","Neutro"
+"Não tenho uma preferência definida.","Neutro"
+"Isso não me faz sentir nada especial.","Neutro"
+"Não me causa uma forte impressão.","Neutro"
+"Não tenho uma opinião extrema.","Neutro"
+"Está tudo regular.","Neutro"
+"Não tenho uma reação intensa.","Neutro"
+"Isso não me emociona.","Neutro"
+"Não estou nem empolgado nem desanimado.","Neutro"
+"Não tenho uma opinião extrema.","Neutro"
+"Está tudo neutro.","Neutro"
+"Não tenho emoções intensas em relação a isso.","Neutro"
+"Isso não é importante para mim.","Neutro"
+"Não me anima.","Neutro"
+"Não tenho muito a comentar.","Neutro"
+"Está tudo regular.","Neutro"
+"Não tenho uma opinião firme.","Neutro"
+"Isso não me toca.","Neutro"
+"Não me emociona de forma alguma.","Neutro"
+"Não tenho sentimentos fortes sobre isso.","Neutro"
+"Está tudo ok.","Neutro"
+"Não tenho uma preferência definida.","Neutro"
+"Isso não me faz sentir nada.","Neutro"
+"Não me impressiona.","Neutro"
+"Não tenho uma opinião radical.","Neutro"
+"Está tudo médio.","Neutro"
+"Não tenho uma reação intensa.","Neutro"
+"Isso não me entusiasma.","Neutro"
+"Não estou nem empolgado nem decepcionado.","Neutro"
+"Não tenho uma opinião extrema.","Neutro"
+"Está tudo equilibrado.","Neutro"
+"Não tenho sentimentos intensos em relação a isso.","Neutro"
+"Isso não é relevante para mim.","Neutro"
+"Não me desperta interesse.","Neutro"
+"Não tenho muito a dizer sobre isso.","Neutro"
+"Está tudo dentro da média.","Neutro"
+"Não tenho uma opinião firme.","Neutro"
+"Isso não me afeta emocionalmente.","Neutro"
+"Não me toca profundamente.","Neutro"
+"Não tenho sentimentos fortes sobre isso.","Neutro"
