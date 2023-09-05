@@ -1,7 +1,9 @@
 # Projeto: NLP_analise_de_sentimentos
  
-![text](https://github.com/CeLo93/NLP_analise_de_sentimentos/assets/92175791/b233c530-8d7d-4dd7-b185-1fcd6f687131)
-
+![tel1](https://github.com/CeLo93/NLP_analise_de_sentimentos/assets/92175791/37f9a85b-2cd8-4ac6-a409-8cda42129a43)
+<div align="center">
+ 📸 Imagem 01 - Visão desenvolvimento 📸
+</div>
 
 ----------
 
@@ -19,10 +21,21 @@ Assim, o objetivo final é ter uma base de dados sólida que possa ser aplicada 
 
 ----------
 
-![tel1](https://github.com/CeLo93/NLP_analise_de_sentimentos/assets/92175791/b3debc6f-8d5d-4550-9f37-09f3c4b18d7b)
+![text](https://github.com/CeLo93/NLP_analise_de_sentimentos/assets/92175791/7aef57a1-e764-47f3-950a-203920ce4bd4)
 
+
+<div align="center">
+ 📸 Imagem 02 - Visão Dados 📸
+</div>
 ----------
 
-https://github.com/CeLo93/NLP_analise_de_sentimentos/assets/92175791/d5d64af1-977b-4eb3-b530-2f17ff991fd9
 
+
+https://github.com/CeLo93/NLP_analise_de_sentimentos/assets/92175791/a5d05715-a9e4-42b6-a016-9b6e2bb6939e
+
+
+
+<div align="center">
+ 📸 Video 01 
+</div>
 
